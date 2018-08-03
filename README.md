@@ -1,4 +1,7 @@
 # NeuroNet - A simple C++ Neural Net library
+
+[![Build status](https://ci.appveyor.com/api/projects/status/6gpd8idykadpcisr?svg=true)](https://ci.appveyor.com/project/warrengalyen/neuronet/branch/master)
+
 (Originally based On [Neural Networks on C#](http://www.codeproject.com/Articles/16447/Neural-Networks-on-C))
 
 ## Main Classes
